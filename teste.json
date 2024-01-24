@@ -2,25 +2,25 @@
     {
         "id": 1,
         "title": "Web3 e a revolução da Internet",
-        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "conteudo": "É uma ideia para uma nova versão da World Wide Web que incorpora conceitos como descentralização, blockchain e economia baseada em tokens.",
         "autor": "Emerson Pereira"
     },
     {
         "id": 2,
         "title": "Como criar uma senha?",
-        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "conteudo": "Uma senha forte deve ter pelo menos 12 caracteres, ser única para cada conta importante e não conter informações pessoais. Deve-se usar uma mistura de letras maiúsculas e minúsculas, números e símbolos.",
         "autor": "Emerson Pereira"
     },
     {
         "id": 3,
         "title": "Sites que você precisa conhecer #01",
-        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "conteudo": "O site “The Useless Web” leva você a páginas aleatórias e inúteis da Internet, perfeito para desperdiçar tempo de forma divertida.",
         "autor": "Emerson Pereira"
     },
     {
         "id": 4,
         "title": "Sites que você precisa conhecer #02",
-        "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "conteudo": "O site “Hacker Typer” permite que você digite como se fosse um hacker de filmes, qualquer coisa que você digitar vai parecer importante na tela.",
         "autor": "Emerson Pereira"
     }
 ]
